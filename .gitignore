@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# Arduino-related files
+*.hex
+*.elf
+*.ino.*
+
+# Build directory
+/build/
+
+# Temporary files and logs
+*.log
+*.tmp
